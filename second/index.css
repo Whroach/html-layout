@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 25px;
+  }
+  
+  
+  .topBox {
+    width: 100%;
+    border: 5px solid gold;
+    padding: 10px;
+    box-sizing: border-box ;
+  }
+  
+  .leftSquare {
+    height: 150px;
+    width: 50px;
+    background-color: purple;
+    display: inline-block;
+  }
+  .centerSquare {
+    height: 200px;
+    width: 400px;
+    display: inline-block;
+    background-color: green;
+    margin: 0 50px;
+  }
+  .rightCircle {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: blue;
+    display: inline-block;
+  }
+  
+  .centerBox {
+    width: 100%;
+    border: 5px dashed black;
+    padding: 50px;
+    box-sizing: border-box ;
+    margin-top: 25px; 
+  }
+  
+  .centerSquareBox {
+    width: 100%;
+    height: 200px;
+    background-color: tan;
+    
+  }
+  
+  .bottomBox {
+    width: 50%;
+    border: 1px solid tan;
+    background-color: white;
+    padding: 100px;
+    box-sizing: border-box ;
+    margin: 25px auto; 
+    
+  }
+  
+  .bottomBox h1 {
+    width: 100%;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+  }

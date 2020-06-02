@@ -1,0 +1,31 @@
+.topPage {
+    width: 100%;
+    height: 25vh;
+    background: gold;
+}
+
+.centerPage {
+    width: 75%;
+    height: 70vh;
+    background: white;
+    margin: 0% auto;
+}
+
+.bottomPage {
+    width: 75%;
+    height: 75px;
+    background: gold;
+    margin: 0 auto;
+
+
+}
+
+body {
+    background: silver;
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+
+
+
+}

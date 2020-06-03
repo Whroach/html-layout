@@ -3,18 +3,18 @@ body, html {
     padding: 0;
   }
   
-  .head {
+  .topBox {
     height: 100px;
     width: 100%;
   }
   
-  .smallBox {
+  .textBox {
     height: 200px;
     width: 100%;
   }
   
-  .textBox {
-    background-color: #D8D8D8;
+  .smallBox {
+    background-color: tan;
     padding: 25px;
     box-sizing: border-box;
   }
@@ -22,27 +22,22 @@ body, html {
   .bottom1 {
     width: 50px;
     height: 50px;
-    background-color: #4A90E2;
+    background-color: lightblue;
+  }
+  
+  
+  .bottom1 {
+    background-color: blue;
   }
   
   .bottom2 {
-    background-color: #fff;
-    box-sizing: border-box;
-    padding: 50px;
+    background-color: lightgreen;
   }
   
   .bottom3 {
-    background-color: #4A90E2;
+    background-color:lime;
   }
   
   .bottom4 {
-    background-color: #50E3C2;
-  }
-  
-  .bottom5 {
-    background-color: #B8E986;
-  }
-  
-  .bottom6 {
-    background-color: #F8E71C;
+    background-color: yellow;
   }
